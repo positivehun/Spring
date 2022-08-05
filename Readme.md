@@ -55,4 +55,4 @@
 | 11  |     web.xml은 무엇인가요?      |  ✔  |
 | 12  |     DispatcherServlet은 무엇인가요?      |  ✔   |
 | 13  |     ApplicationContext가 무엇인가요?      |    ✔ |
-| 14  |     응답(Response)하는 방법      |  ✔  |
+| 14  |     응답(Response)하는 방법      |    |
